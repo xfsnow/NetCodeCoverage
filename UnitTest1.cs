@@ -1,3 +1,5 @@
+﻿using Xunit;
+
 namespace NetCodeCoverage;
 
 public class UnitTest1
